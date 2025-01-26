@@ -17,5 +17,7 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 
 
 **2.AWS End-to-End CI-CD**
+
 Description:
+
 This project sets up a Continuous Integration (CI) pipeline using AWS to automate the build and deployment of a Python application. It involves creating a GitHub repository, configuring AWS CodePipeline to automate the flow from code changes to deployment, and using AWS CodeBuild to handle the build and testing process. The goal is to streamline the development workflow and ensure faster, more reliable delivery of the application.
