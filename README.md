@@ -1,4 +1,5 @@
 **1.AWS VPC with Public and Private Subnets in Production**
+Description:
 
 VPC Design and Implementation: Designed a VPC with public subnets (NAT gateways and load balancers) and private subnets (servers managed by Auto Scaling) across two Availability Zones.
 
@@ -16,7 +17,7 @@ The Lambda function fetches all EBS snapshots owned by the same account ('self')
 
 
 
-**2.AWS End-to-End CI-CD**
+**3.AWS End-to-End CI-CD**
 
 Description:
 
